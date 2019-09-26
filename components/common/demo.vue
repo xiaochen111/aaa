@@ -6,6 +6,8 @@
             
              ></iframe>
 
+            <div>笔记本</div>
+
             <div>
                 <label>邮箱</label>
                 <input type="text" v-checkParam="{dataType:'require|email',msg:'不能为空|邮箱不正确'}">
