@@ -7,7 +7,7 @@
         </van-nav-bar>
     </div>
 </template>
-
+sdf
 <script>
     import { NavBar} from 'vant';
     export default {
