@@ -1,7 +1,7 @@
 <template>
     <div id="check">
         <div>
-
+            <div>台式机</div>
             <iframe src="http://eshipping.oss-cn-shanghai.aliyuncs.com/eshippingtest/api/mbl/f3c8ef48963d4b28b3499b435cefeae7.xls" frameborder="0" width="100%"
             
              ></iframe>
