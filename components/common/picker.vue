@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div>笔记本
         <div :class="down?'mask down':'mask'" @click="onClickLeft"></div>
         <div :class="down?'content down':'content'" :style="'height:'+height">
                 <van-nav-bar class="van-nav-bar-temple"

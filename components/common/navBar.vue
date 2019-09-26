@@ -4,6 +4,7 @@
             <div slot="right">
                 <slot></slot>
             </div>
+            笔记本
         </van-nav-bar>
     </div>
 </template>
