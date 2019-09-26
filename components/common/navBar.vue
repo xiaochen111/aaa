@@ -5,6 +5,7 @@
                 <slot></slot>
             </div>
             笔记本
+           台式机
         </van-nav-bar>
     </div>
 </template>

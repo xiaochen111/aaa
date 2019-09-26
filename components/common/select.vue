@@ -6,7 +6,7 @@
         left-arrow
         @click-left="onClickLeft"
         />
-
+ 台式机
         <!-- <div class="search-box">
             <div class="ipt-box clearfix">
                 <van-icon name="search" />
