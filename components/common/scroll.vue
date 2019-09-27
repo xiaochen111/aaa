@@ -1,5 +1,5 @@
 <template>
-  <div ref="wrapper">笔记本
+  <div ref="wrapper">笔记本sdsd
     <slot></slot>
   </div>
 </template>
