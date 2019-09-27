@@ -4,7 +4,7 @@
             @touchmove="mousedown($event)"
             @touchend="mouseover($event)"
             >
-            <span v-if="loginflag.flag">
+            <span v-if="loginflag.flag">sdsd
                 <li @click="wwlconsultFn1">
                     <a :href="'tel:'+tel['tel'+language]">
                         <img src="../../../static/images/index/lianxiwomen.png" alt="">
