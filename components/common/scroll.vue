@@ -3,7 +3,7 @@
     <slot></slot>
   </div>
 </template>
- 台式机
+ 台式机sdfsf
 <script type="text/ecmascript-6">
   import BScroll from 'better-scroll'
 
